@@ -1,0 +1,12 @@
+Variables: son elementos en los que podemos guardar valores para usarlos mas tarde, la cantidad de veces que queramos
+Strings: son cadenas de caracteres
+Funciones (argumentos, return): las funciones son bloques de codigo que hacen algo en particular. Son como plantillas
+de codigo que podemos usar las veces que queramos. Una vez que la definimos, la función queda siempre igual, pero
+podemos pasarle distintos parametros.
+Reciben argumentos, que son las variables que utilizan para realizar operaciones (puede tener varios, uno o ningùn argumento).
+Con 'return' podemos devolver algo de la funcion (una variable, un nro, un caracter, etc). Lo que devuelva lo
+vamos a ver en el programa principal.
+Declaraciones 'if': if es un condicional que significa 'si'. Sirve para que se ejecute cierto codigo si se cumple la
+condicion que va entre parentesis al lado del if.
+Valores booleanos (true, false): true significa verdadero y false significa falso. Sirve para hacer comparaciones
+entre otras cosas
