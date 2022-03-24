@@ -1,0 +1,8 @@
+for: es una instrucción que sirve para realizar una accion repetitiva. Tenemos que especificar la cantidad de veces 
+que queremos repetir esa accion. Entre parentesis recibe 3 parametros: el punto donde empieza a contar, el punto donde
+termina de contar, y cada cuanto avanza.
+&&: es una multiplicacion logica, significa AND. Sirve para hacer comparaciones, en este caso, si estamos comparando
+dos condiciones y se cumplen ambas, devuelve verdadero, si alguna no se cumple, devuelve falso
+||: es una suma logica, significa OR. En este caso, devuelve verdadero si alguna de las dos condiciones se cumple. 
+Si no se cumple ninguna devuelve falso.
+!: es una negación, significa NOT. Cambia de verdadero a falso.
