@@ -1,0 +1,3 @@
+Arrays: son elementos que contienen un listado de variables, las cuales pueden ser de distinto tipo. 
+Es decir, un arreglo es como una secuencia (o una lista) de variables. Esto nos permite guardar informacion de manera ordenada
+para usarlo en alguna parte del programa.
