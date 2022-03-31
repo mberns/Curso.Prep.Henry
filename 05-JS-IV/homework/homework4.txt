@@ -1,0 +1,10 @@
+* Objetos: son elementos que nos permiten almacenar distintos valores, como si fuera un array, pero en vez de que
+las keys sean numeros, son palabras. Es decir, es un arreglo que en vez de almacenar informacion por posicion, 
+almacena informacion por nombre.
+* Propiedades: son los keys de los objetos, los lugares del objeto donde guardamos informacion 
+* Métodos: funciones que se encuentran dentro de los objetos
+* Bucle `for…in`: es un for que en vez de buscar por posicion busca por nombre, sirve para buscar una propiedad 
+en un objeto
+* Notación de puntos vs notación de corchetes: la notacion de puntos se usa cuando sabemos exactamente el 
+nombre de la propiedad, sino la sabemos tenemos que usar la notacion de corchetes, pero sin las comillas. Si sabemos 
+el nombre de la propiedad tambien podemos usar los corchetes, pero con las comillas.
