@@ -1,0 +1,1 @@
+callback: es una funcion que se pasa de argumento dentro de otra funcion
